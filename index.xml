@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>VAISHNAVI T N on DATA SCIENCE PORTFOLIO</title>
-    <link>https://Vaishnavi-T-N.github.in/portfolio/</link>
+    <link>https://vaishnavi-t-n.github.io/portfolio/</link>
     <description>Recent content in VAISHNAVI T N on DATA SCIENCE PORTFOLIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 May 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://Vaishnavi-T-N.github.in/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 May 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://vaishnavi-t-n.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Frog_predictor</title>
-      <link>https://Vaishnavi-T-N.github.in/portfolio/post/chapter-1/</link>
+      <link>https://vaishnavi-t-n.github.io/portfolio/post/chapter-1/</link>
       <pubDate>Sun, 15 May 2022 10:58:08 -0400</pubDate>
       
-      <guid>https://Vaishnavi-T-N.github.in/portfolio/post/chapter-1/</guid>
+      <guid>https://vaishnavi-t-n.github.io/portfolio/post/chapter-1/</guid>
       <description>This project is to predict the occurrence of a single species of frog for a single location using a single data source at a coarse spatial resolution. The output will be a species distribution model of one species of frog. Species distribution models are one of the most widely used ecological tools, a cornerstone in many countries worldwide of environmental regulation and conservation. Why frogs? Frogs are an indicator species. This means they are a go-to for scientists wanting to find out more about the environmental health of a particular ecosystem.</description>
     </item>
     
     <item>
       <title>About</title>
-      <link>https://Vaishnavi-T-N.github.in/portfolio/about/</link>
+      <link>https://vaishnavi-t-n.github.io/portfolio/about/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Vaishnavi-T-N.github.in/portfolio/about/</guid>
+      <guid>https://vaishnavi-t-n.github.io/portfolio/about/</guid>
       <description>*      Name: Vaishnavi T N   Education: B.E(Electronics and Communication Engineering)   College: Dayananda Sagar College Of Engineering   Nationality: Indian      Interested in exploring various skills of data science, analysing and visualizing data, using machine learning to train and deploy models.</description>
     </item>
     
     <item>
       <title>Contact</title>
-      <link>https://Vaishnavi-T-N.github.in/portfolio/contact/</link>
+      <link>https://vaishnavi-t-n.github.io/portfolio/contact/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://Vaishnavi-T-N.github.in/portfolio/contact/</guid>
+      <guid>https://vaishnavi-t-n.github.io/portfolio/contact/</guid>
       <description>This is my contact details.
    sub details     Name: VAISHNAVI T N   mail id: tnvaishnavi25@gmail.com   linkedin: https://www.linkedin.com/in/vaishnavi-t-n-bb85931b0/   github: https://github.com/Vaishnavi-T-N/    </description>
     </item>
