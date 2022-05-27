@@ -6,7 +6,16 @@
     <description>Recent content in VAISHNAVI T N on DATA SCIENCE PORTFOLIO</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 15 May 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://vaishnavi-t-n.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 21 May 2022 10:58:08 -0400</lastBuildDate><atom:link href="https://vaishnavi-t-n.github.io/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Sentence_Similarity_Predictor</title>
+      <link>https://vaishnavi-t-n.github.io/portfolio/post/chapter-2/</link>
+      <pubDate>Sat, 21 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaishnavi-t-n.github.io/portfolio/post/chapter-2/</guid>
+      <description>Sentence Similarity is the task of determining how similar two texts are. Sentence similarity models convert input texts into vectors (embeddings) that capture semantic information and calculate how close (similar) they are between them. This task is particularly useful for information retrieval and clustering/grouping.To check the sentence similarity between two paragraphs, we can implement cosine similarity check. Cosine similarity is a metric used to determine how similar the documents are irrespective of their size.</description>
+    </item>
+    
     <item>
       <title>Frog_predictor</title>
       <link>https://vaishnavi-t-n.github.io/portfolio/post/chapter-1/</link>
@@ -14,6 +23,15 @@
       
       <guid>https://vaishnavi-t-n.github.io/portfolio/post/chapter-1/</guid>
       <description>This project is to predict the occurrence of a single species of frog for a single location using a single data source at a coarse spatial resolution. The output will be a species distribution model of one species of frog. Species distribution models are one of the most widely used ecological tools, a cornerstone in many countries worldwide of environmental regulation and conservation. Why frogs? Frogs are an indicator species. This means they are a go-to for scientists wanting to find out more about the environmental health of a particular ecosystem.</description>
+    </item>
+    
+    <item>
+      <title>face_mask_detector</title>
+      <link>https://vaishnavi-t-n.github.io/portfolio/post/chapter-3/</link>
+      <pubDate>Wed, 12 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://vaishnavi-t-n.github.io/portfolio/post/chapter-3/</guid>
+      <description>The corona virus COVID-19 pandemic is causing a global health crisis so the effective protection methods is wearing a face mask in public areas according to the World Health Organization (WHO). The COVID-19 pandemic forced governments acrossthe world to impose lockdownstoprevent virus transmissions. Reportsindicate that wearing facemasks while at work clearly reduces the risk of transmission. An efficient and economic approach of using AI to create a safe environment in a manufacturing setup.</description>
     </item>
     
     <item>
